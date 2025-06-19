@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "Double Cheese Burger",
+    "slug": "double-cheese-burger",
+    "price": 699,
+    "inStock": true
+  },
+  {
+    "id": 2,
+    "name": "Spicy Chicken Zinger",
+    "slug": "spicy-chicken-zinger",
+    "price": 229,
+    "inStock": true
+  },
+  {
+    "id": 3,
+    "name": "Veggie Delight",
+    "slug": "veggie-delight",
+    "price": 149,
+    "inStock": false
+  },
+  {
+    "id": 4,
+    "name": "BBQ Bacon Burger",
+    "slug": "bbq-bacon-burger",
+    "price": 249,
+    "inStock": true
+  },
+  {
+    "id": 5,
+    "name": "Paneer Overload",
+    "slug": "paneer-overload",
+    "price": 179,
+    "inStock": true
+  },
+  {
+    "id": 6,
+    "name": "Peri Peri Surprise",
+    "slug": "peri-peri-surprise",
+    "price": 199,
+    "inStock": false
+  },
+  {
+    "id": 7,
+    "name": "Double Burst Burger",
+    "slug": "double-burst-burger",
+    "price": 499,
+    "inStock": true
+  }
+]
